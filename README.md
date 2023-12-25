@@ -1,2 +1,2 @@
-# Leet_Code_C++
+# LeetCode
 Leet_Code_Solutions
